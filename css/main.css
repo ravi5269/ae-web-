@@ -1,0 +1,53 @@
+.card-body {
+    background: #ffffffcc !important;
+}
+
+.bg-table {
+    background: #004093;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #004093;
+}
+
+.card-title {
+    color: #75797d;
+    font-weight: 700;
+}
+
+.modal-header {
+    background: linear-gradient(133.65deg, #0c2947 2.24%, #0699ce);
+}
+
+.card {
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(18, 72, 144, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    background: #cecece3d;
+}
+
+.price {
+    color: grey;
+    font-size: 22px;
+}
+
+.btn-sm {
+    border: none;
+    outline: 0;
+   
+    color: rgb(44, 66, 164);
+    background: linear-gradient(133.65deg, #0c2947 2.24%, #0699ce);
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.card button:hover {
+    opacity: 0.7;
+}
